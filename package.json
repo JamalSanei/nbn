@@ -1,0 +1,20 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "test_noban",
+  "main": "./server.js",
+  "scripts": {
+    "test": "node ./src/server.js",
+    "start": " node  ./src/server.js"
+  },
+  "keywords": [],
+  "author": "jamal sanei",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "global": "^4.4.0",
+    "mysql": "^2.18.1",
+    "redis": "^3.0.2",
+    "util": "^0.12.3"
+  }
+}

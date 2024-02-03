@@ -1,0 +1,5 @@
+#node modules
+/node_modules
+package-lock.json
+# React Component Preview
+previewConfig.json
